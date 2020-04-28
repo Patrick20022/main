@@ -1,7 +1,0 @@
-* Abstraction (Abstração)
-
-Abstração é um instrumento pelo qual elementos compostos podem ser nomeados e manipulados como unidades, pois dessa forma nos permite usarmos nomes simples para nos referirmos aos resultados de operações compostas. Em geral, objetos computacionais podem ter estruturas muito complexas e seria extremamente inconveniente ter que lembrar e repetir seus detalhes cada vez que querermos utilizar-los. De fato, programas complexos são construídos por passo a passo. 
- 
-Fonte 1: https://youtu.be/2Op3QLzMgSY
-Fonte 2: SICP Book
-
