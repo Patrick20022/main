@@ -1,5 +1,11 @@
 #lang racket
 
+; Calculate Euler's totient function phi(m).
+
+; Euler's so-called totient function phi(m) is defined as
+; the number of positive integers r (1 <= r < m) that are
+; coprime to m.
+
 (define (next x) (+ x 1))
 
 (define (gcd a b)
@@ -28,5 +34,5 @@
 ;igual a 1.
 
 
-
+(provide gcd totiente-phi)
           
